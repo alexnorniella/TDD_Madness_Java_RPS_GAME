@@ -10,7 +10,7 @@ Human vs. Computer: Play against the computer, which makes its moves using a ran
 
 Recommended Learning Resources:
 
-If you're struggling to understand Object-Oriented Programming (OOP) in Java, I highly recommend the YouTube channel Code with John. He has many useful and concise videos that have helped me a lot.
+If you're struggling to understand Object-Oriented Programming (OOP) in Java, I highly recommend the YouTube channel Coding with John. He has many useful and concise videos that have helped me a lot.
 
 Videos:
 
